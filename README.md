@@ -107,6 +107,7 @@ When a new question is submitted, it could send an email notification to an admi
 **Future plans**
 
 A future version could allow users to upvote answers to affect their position in the list
+When an
 
 **Usability**
 Users are assumed to be accessing the site on a mobile device so the site should adopt a mobile first design.
